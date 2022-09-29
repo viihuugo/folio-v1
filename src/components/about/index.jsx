@@ -10,7 +10,7 @@ export default function About() {
       <Intro><motion.div initial={{opacity:0,y:50}} whileInView={{opacity:1,y:0,transition:{duration:.8}}} viewport={{once:true}}>I CREATE DIGITAL PRODUCTS USING CODING AND INTERACTIVE DESIGN TO REALIZE IDEIAS</motion.div></Intro>
       <Flex>
         <Info><motion.div initial={{opacity:0}} whileInView={{opacity:1}} transition={{delay:.7,duration:1}} viewport={{once:true}}>The combination of<br/> code & design </motion.div></Info>
-        <Bio><motion.div initial={{opacity:0}} whileInView={{opacity:1}} transition={{delay:.5,duration:1}} viewport={{once:true}}>Self-taught student passioned about web technologies and design, focused on Front-End currently learning React and trying to explore new creative ways to bring user interfaces and creating interaction digital experiences.<br/><br/>  When i`m not coding i`m playing video games or having some activity outside when is possible "Canada feelings"</motion.div></Bio>
+        <Bio><motion.div initial={{opacity:0}} whileInView={{opacity:1}} transition={{delay:.5,duration:1}} viewport={{once:true}}>Self-taught student passioned about web technologies and design, focused on Front-End currently learning React and trying to explore new creative ways to bring user interfaces and creating interaction digital experiences.<br/><br/>  When I'm not coding I'm playing video games or having some activity outside when is possible "Canada feelings"</motion.div></Bio>
       </Flex>
     </Wrapper>
     
